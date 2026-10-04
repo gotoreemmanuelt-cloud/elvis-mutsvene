@@ -1,0 +1,542 @@
+date,direction,amount,category,counterparty,channel,balance_after,night,reference
+2026-01-05,out,44.87,cash_out,EcoCash Agent,EcoCash,298.62,0,TX100000
+2026-01-05,out,2.04,airtime_purchase,NetOne,EcoCash,296.58,0,TX100001
+2026-01-06,out,11.73,airtime_purchase,NetOne,EcoCash,284.85,0,TX100002
+2026-01-06,out,94.92,merchant_payment,Part-time crochet sales,Paynow,189.93,0,TX100003
+2026-01-08,in,77.52,sale_income,N. Khumalo,EcoCash,267.45,0,TX100004
+2026-01-08,in,16.82,sale_income,K. Sibanda,EcoCash,284.27,0,TX100005
+2026-01-08,in,46.55,sale_income,C. Dube,EcoCash,330.82,0,TX100006
+2026-01-08,out,5.08,airtime_purchase,NetOne,EcoCash,325.74,0,TX100007
+2026-01-09,in,90.5,sale_income,J. Mwale,EcoCash,416.24,0,TX100008
+2026-01-09,out,42.19,cash_out,EcoCash Agent,EcoCash,374.05,0,TX100009
+2026-01-09,out,10.05,airtime_purchase,NetOne,EcoCash,364.0,0,TX100010
+2026-01-09,out,15.54,loan_repayment,MicroLoan ZW,Paynow,348.46,0,TX100011
+2026-01-09,in,22.04,peer_transfer_in,P. Gondo,EcoCash,370.5,0,TX100012
+2026-01-10,in,81.35,sale_income,K. Sibanda,EcoCash,518.91,0,TX100013
+2026-01-10,in,10.89,sale_income,A. Tsvangirai,EcoCash,437.55,0,TX100014
+2026-01-10,in,56.16,sale_income,M. Chikafu,EcoCash,426.66,0,TX100015
+2026-01-11,out,41.58,cash_out,EcoCash Agent,EcoCash,477.33,0,TX100016
+2026-01-11,out,9.34,airtime_purchase,NetOne,EcoCash,467.99,0,TX100017
+2026-01-11,out,52.23,merchant_payment,Part-time crochet sales,Paynow,415.76,0,TX100018
+2026-01-12,in,94.55,sale_income,K. Sibanda,EcoCash,510.31,0,TX100019
+2026-01-12,in,87.4,sale_income,P. Gondo,EcoCash,597.71,0,TX100020
+2026-01-12,in,76.81,sale_income,N. Dube,EcoCash,674.52,0,TX100021
+2026-01-12,out,3.14,airtime_purchase,NetOne,EcoCash,671.38,0,TX100022
+2026-01-13,out,6.13,airtime_purchase,NetOne,EcoCash,665.25,0,TX100023
+2026-01-13,in,8.29,peer_transfer_in,S. Chari,EcoCash,673.54,0,TX100024
+2026-01-14,in,19.23,sale_income,N. Dube,EcoCash,692.77,0,TX100025
+2026-01-14,out,44.15,cash_out,EcoCash Agent,EcoCash,648.62,0,TX100026
+2026-01-14,out,9.19,airtime_purchase,NetOne,EcoCash,639.43,0,TX100027
+2026-01-15,in,39.18,sale_income,T. Ncube,EcoCash,807.93,0,TX100028
+2026-01-15,in,40.22,peer_transfer_in,P. Gondo,EcoCash,848.15,0,TX100029
+2026-01-15,in,94.26,sale_income,K. Sibanda,EcoCash,733.69,0,TX100030
+2026-01-15,in,35.06,sale_income,M. Chikafu,EcoCash,768.75,0,TX100031
+2026-01-16,in,22.48,sale_income,R. Moyo,EcoCash,870.63,0,TX100032
+2026-01-16,in,16.99,sale_income,K. Sibanda,EcoCash,887.61,0,TX100033
+2026-01-16,in,48.89,sale_income,R. Moyo,EcoCash,936.5,0,TX100034
+2026-01-16,out,21.35,cash_out,EcoCash Agent,EcoCash,915.15,0,TX100035
+2026-01-16,out,8.37,airtime_purchase,NetOne,EcoCash,906.78,0,TX100036
+2026-01-17,in,45.33,sale_income,R. Moyo,EcoCash,952.11,0,TX100037
+2026-01-17,out,51.63,cash_out,EcoCash Agent,EcoCash,900.48,1,TX100038
+2026-01-17,out,8.7,airtime_purchase,NetOne,EcoCash,891.78,0,TX100039
+2026-01-17,out,47.8,merchant_payment,Harare CBD hair salon,Paynow,843.98,0,TX100040
+2026-01-17,in,67.42,peer_transfer_in,N. Dube,EcoCash,911.4,0,TX100041
+2026-01-18,out,50.24,cash_out,EcoCash Agent,EcoCash,861.16,0,TX100042
+2026-01-18,out,55.69,merchant_payment,Mutare hardware supply,Paynow,805.47,0,TX100043
+2026-01-19,out,4.17,airtime_purchase,NetOne,EcoCash,801.3,0,TX100044
+2026-01-20,out,20.0,cash_out,EcoCash Agent,EcoCash,867.16,0,TX100045
+2026-01-20,in,17.89,sale_income,K. Sibanda,EcoCash,887.16,0,TX100046
+2026-01-20,in,67.96,sale_income,M. Chikafu,EcoCash,869.27,0,TX100047
+2026-01-21,in,5.68,sale_income,A. Tsvangirai,EcoCash,872.84,0,TX100048
+2026-01-21,out,97.63,merchant_payment,Harare CBD hair salon,Paynow,775.21,0,TX100049
+2026-01-22,in,66.34,sale_income,R. Moyo,EcoCash,841.55,0,TX100050
+2026-01-22,out,45.26,cash_out,EcoCash Agent,EcoCash,796.29,0,TX100051
+2026-01-23,out,10.38,loan_repayment,MicroLoan ZW,Paynow,871.83,0,TX100052
+2026-01-23,in,77.03,sale_income,P. Gondo,EcoCash,873.31,0,TX100053
+2026-01-23,in,47.34,sale_income,C. Dube,EcoCash,920.65,0,TX100054
+2026-01-23,out,38.44,cash_out,EcoCash Agent,EcoCash,882.21,0,TX100055
+2026-01-23,in,13.59,peer_transfer_in,N. Khumalo,EcoCash,885.42,0,TX100056
+2026-01-25,in,66.66,sale_income,R. Moyo,EcoCash,952.09,0,TX100057
+2026-01-25,out,64.47,merchant_payment,Mutare hardware supply,Paynow,887.62,0,TX100058
+2026-01-26,in,57.15,sale_income,T. Ncube,EcoCash,944.76,0,TX100059
+2026-01-26,in,75.58,sale_income,A. Tsvangirai,EcoCash,1020.34,0,TX100060
+2026-01-26,in,63.56,sale_income,E. Mutasa,EcoCash,1083.9,0,TX100061
+2026-01-27,in,21.09,peer_transfer_in,T. Ncube,EcoCash,1130.25,1,TX100062
+2026-01-27,out,1.34,airtime_purchase,NetOne,EcoCash,1170.02,0,TX100063
+2026-01-27,out,60.86,merchant_payment,Mutare hardware supply,Paynow,1109.16,0,TX100064
+2026-01-27,in,56.59,sale_income,A. Tsvangirai,EcoCash,1196.56,0,TX100065
+2026-01-27,in,56.07,sale_income,P. Gondo,EcoCash,1139.97,0,TX100066
+2026-01-27,out,25.2,cash_out,EcoCash Agent,EcoCash,1171.36,0,TX100067
+2026-01-28,out,30.43,cash_out,EcoCash Agent,EcoCash,1099.82,0,TX100068
+2026-01-28,out,104.61,merchant_payment,Part-time crochet sales,Paynow,995.21,0,TX100069
+2026-01-29,in,26.58,sale_income,T. Ncube,EcoCash,1021.79,0,TX100070
+2026-01-29,in,10.38,sale_income,A. Tsvangirai,EcoCash,1032.17,0,TX100071
+2026-01-29,in,30.96,sale_income,R. Moyo,EcoCash,1063.13,0,TX100072
+2026-01-29,in,27.02,peer_transfer_in,P. Gondo,EcoCash,1090.15,0,TX100073
+2026-01-30,in,66.07,sale_income,M. Chikafu,EcoCash,1156.22,0,TX100074
+2026-01-30,out,37.85,cash_out,EcoCash Agent,EcoCash,1118.37,0,TX100075
+2026-01-31,out,49.19,cash_out,EcoCash Agent,EcoCash,1069.18,0,TX100076
+2026-01-31,out,84.75,merchant_payment,Part-time crochet sales,Paynow,984.43,0,TX100077
+2026-01-31,in,35.48,peer_transfer_in,P. Gondo,EcoCash,1019.91,0,TX100078
+2026-02-01,out,1.25,airtime_purchase,NetOne,EcoCash,1080.41,0,TX100079
+2026-02-01,out,18.35,cash_out,EcoCash Agent,EcoCash,1081.66,0,TX100080
+2026-02-01,in,80.1,sale_income,K. Sibanda,EcoCash,1100.01,0,TX100081
+2026-02-02,out,14.5,cash_out,EcoCash Agent,EcoCash,1065.91,0,TX100082
+2026-02-03,in,71.64,sale_income,R. Moyo,EcoCash,1137.55,0,TX100083
+2026-02-03,out,33.09,cash_out,EcoCash Agent,EcoCash,1104.46,0,TX100084
+2026-02-03,in,17.1,peer_transfer_in,C. Dube,EcoCash,1121.56,0,TX100085
+2026-02-04,in,51.22,sale_income,P. Gondo,EcoCash,1172.78,0,TX100086
+2026-02-04,in,19.05,sale_income,K. Sibanda,EcoCash,1191.83,0,TX100087
+2026-02-04,out,44.82,cash_out,EcoCash Agent,EcoCash,1147.01,0,TX100088
+2026-02-05,in,46.16,sale_income,T. Ncube,EcoCash,1193.18,0,TX100089
+2026-02-05,out,29.05,cash_out,EcoCash Agent,EcoCash,1164.13,0,TX100090
+2026-02-06,out,25.08,cash_out,EcoCash Agent,EcoCash,1139.05,0,TX100091
+2026-02-06,out,18.71,loan_repayment,MicroLoan ZW,Paynow,1120.34,0,TX100092
+2026-02-07,in,38.38,sale_income,M. Chikafu,EcoCash,1158.71,0,TX100093
+2026-02-07,out,24.2,merchant_payment,Mbare Produce Market,Paynow,1134.51,0,TX100094
+2026-02-08,in,15.89,sale_income,N. Khumalo,EcoCash,1150.4,0,TX100095
+2026-02-09,out,42.92,merchant_payment,Cross-border bus fare,Paynow,1281.35,0,TX100096
+2026-02-09,out,8.7,airtime_purchase,NetOne,EcoCash,1324.27,0,TX100097
+2026-02-09,in,93.74,sale_income,K. Sibanda,EcoCash,1244.14,0,TX100098
+2026-02-09,in,88.82,sale_income,T. Ncube,EcoCash,1332.97,0,TX100099
+2026-02-10,in,94.41,sale_income,P. Gondo,EcoCash,1375.76,0,TX100100
+2026-02-10,in,76.85,sale_income,J. Mwale,EcoCash,1452.6,0,TX100101
+2026-02-10,out,90.27,merchant_payment,Bulawayo textile market,Paynow,1362.33,0,TX100102
+2026-02-11,out,32.47,cash_out,EcoCash Agent,EcoCash,1329.86,0,TX100103
+2026-02-11,out,3.99,airtime_purchase,NetOne,EcoCash,1325.87,0,TX100104
+2026-02-12,in,13.89,sale_income,J. Mwale,EcoCash,1339.77,0,TX100105
+2026-02-12,out,55.13,cash_out,EcoCash Agent,EcoCash,1284.64,0,TX100106
+2026-02-13,out,15.75,loan_repayment,MicroLoan ZW,Paynow,1268.89,0,TX100107
+2026-02-14,in,23.67,sale_income,M. Chikafu,EcoCash,1292.56,0,TX100108
+2026-02-14,in,33.23,sale_income,M. Chikafu,EcoCash,1325.78,0,TX100109
+2026-02-14,out,7.37,airtime_purchase,NetOne,EcoCash,1318.41,0,TX100110
+2026-02-14,out,33.56,merchant_payment,Part-time crochet sales,Paynow,1284.85,0,TX100111
+2026-02-15,out,9.34,airtime_purchase,NetOne,EcoCash,1359.54,0,TX100112
+2026-02-15,in,84.03,sale_income,N. Dube,EcoCash,1368.88,0,TX100113
+2026-02-16,out,80.87,merchant_payment,Cross-border bus fare,Paynow,1226.95,0,TX100114
+2026-02-16,out,5.75,airtime_purchase,NetOne,EcoCash,1307.82,0,TX100115
+2026-02-16,out,45.97,cash_out,EcoCash Agent,EcoCash,1313.57,0,TX100116
+2026-02-17,in,58.89,sale_income,R. Moyo,EcoCash,1285.84,0,TX100117
+2026-02-17,in,64.95,sale_income,E. Mutasa,EcoCash,1350.79,0,TX100118
+2026-02-17,out,14.22,cash_out,EcoCash Agent,EcoCash,1336.57,0,TX100119
+2026-02-17,out,58.66,merchant_payment,Gweru second-hand clothing,Paynow,1277.91,0,TX100120
+2026-02-18,out,19.37,merchant_payment,Cross-border bus fare,Paynow,1258.54,0,TX100121
+2026-02-18,in,42.05,peer_transfer_in,J. Mwale,EcoCash,1300.59,0,TX100122
+2026-02-19,out,30.18,merchant_payment,Mbare Produce Market,Paynow,1265.78,0,TX100123
+2026-02-19,out,4.63,airtime_purchase,NetOne,EcoCash,1295.96,0,TX100124
+2026-02-20,in,14.54,sale_income,N. Khumalo,EcoCash,1280.32,0,TX100125
+2026-02-20,in,59.21,sale_income,E. Mutasa,EcoCash,1339.54,0,TX100126
+2026-02-20,in,20.74,sale_income,R. Moyo,EcoCash,1360.27,0,TX100127
+2026-02-20,out,11.18,airtime_purchase,NetOne,EcoCash,1349.09,0,TX100128
+2026-02-20,out,76.01,merchant_payment,Cross-border bus fare,Paynow,1273.08,0,TX100129
+2026-02-20,in,31.02,peer_transfer_in,E. Mutasa,EcoCash,1304.1,0,TX100130
+2026-02-21,out,34.12,cash_out,EcoCash Agent,EcoCash,1430.04,0,TX100131
+2026-02-21,in,93.43,sale_income,T. Ncube,EcoCash,1464.16,0,TX100132
+2026-02-21,out,9.61,airtime_purchase,NetOne,EcoCash,1420.43,0,TX100133
+2026-02-21,in,59.52,sale_income,N. Dube,EcoCash,1363.62,0,TX100134
+2026-02-21,in,7.1,sale_income,E. Mutasa,EcoCash,1370.72,0,TX100135
+2026-02-22,in,12.63,sale_income,T. Ncube,EcoCash,1433.06,0,TX100136
+2026-02-23,in,49.9,sale_income,T. Ncube,EcoCash,1482.96,0,TX100137
+2026-02-23,out,34.54,cash_out,EcoCash Agent,EcoCash,1448.42,0,TX100138
+2026-02-23,out,11.32,airtime_purchase,NetOne,EcoCash,1437.1,0,TX100139
+2026-02-24,in,57.75,sale_income,J. Mwale,EcoCash,1494.84,0,TX100140
+2026-02-24,in,48.68,sale_income,N. Dube,EcoCash,1543.53,0,TX100141
+2026-02-24,out,23.35,cash_out,EcoCash Agent,EcoCash,1520.18,0,TX100142
+2026-02-24,in,29.87,peer_transfer_in,K. Sibanda,EcoCash,1550.05,0,TX100143
+2026-02-25,in,53.04,sale_income,C. Dube,EcoCash,1603.08,0,TX100144
+2026-02-25,in,45.49,sale_income,M. Chikafu,EcoCash,1648.57,0,TX100145
+2026-02-25,out,1.24,airtime_purchase,NetOne,EcoCash,1647.33,0,TX100146
+2026-02-26,out,51.31,cash_out,EcoCash Agent,EcoCash,1596.02,0,TX100147
+2026-02-26,out,10.86,airtime_purchase,NetOne,EcoCash,1585.16,0,TX100148
+2026-02-26,in,15.52,peer_transfer_in,A. Tsvangirai,EcoCash,1600.68,0,TX100149
+2026-02-27,out,15.43,cash_out,EcoCash Agent,EcoCash,1641.37,0,TX100150
+2026-02-27,in,55.42,peer_transfer_in,K. Sibanda,EcoCash,1696.79,0,TX100151
+2026-02-27,in,56.11,sale_income,J. Mwale,EcoCash,1656.8,0,TX100152
+2026-02-28,in,30.95,sale_income,J. Mwale,EcoCash,1727.73,0,TX100153
+2026-02-28,in,65.84,sale_income,S. Chari,EcoCash,1793.57,0,TX100154
+2026-02-28,in,72.07,sale_income,E. Mutasa,EcoCash,1865.64,0,TX100155
+2026-02-28,out,48.43,cash_out,EcoCash Agent,EcoCash,1817.21,1,TX100156
+2026-03-01,in,14.94,sale_income,N. Khumalo,EcoCash,1832.15,0,TX100157
+2026-03-02,in,89.51,sale_income,S. Chari,EcoCash,1921.66,0,TX100158
+2026-03-03,out,11.87,cash_out,EcoCash Agent,EcoCash,1936.03,0,TX100159
+2026-03-03,in,26.24,sale_income,A. Tsvangirai,EcoCash,1947.9,0,TX100160
+2026-03-03,out,73.26,merchant_payment,Mbare Produce Market,Paynow,1862.77,0,TX100161
+2026-03-04,in,39.22,sale_income,M. Chikafu,EcoCash,1901.99,0,TX100162
+2026-03-04,in,81.55,sale_income,T. Ncube,EcoCash,1983.54,0,TX100163
+2026-03-04,out,9.89,airtime_purchase,NetOne,EcoCash,1973.65,0,TX100164
+2026-03-04,out,48.3,merchant_payment,Mbare Produce Market,Paynow,1925.35,0,TX100165
+2026-03-04,in,76.47,peer_transfer_in,P. Gondo,EcoCash,2001.82,0,TX100166
+2026-03-05,out,24.55,cash_out,EcoCash Agent,EcoCash,1977.27,0,TX100167
+2026-03-06,in,91.36,sale_income,N. Dube,EcoCash,2149.76,0,TX100168
+2026-03-06,in,28.61,sale_income,R. Moyo,EcoCash,2058.4,0,TX100169
+2026-03-06,in,52.52,sale_income,T. Ncube,EcoCash,2029.79,0,TX100170
+2026-03-07,in,20.19,sale_income,R. Moyo,EcoCash,2169.95,0,TX100171
+2026-03-08,out,12.25,cash_out,EcoCash Agent,EcoCash,2157.7,0,TX100172
+2026-03-09,in,45.14,sale_income,N. Khumalo,EcoCash,2202.84,0,TX100173
+2026-03-09,in,96.55,sale_income,E. Mutasa,EcoCash,2299.39,0,TX100174
+2026-03-09,in,87.26,sale_income,A. Tsvangirai,EcoCash,2386.65,0,TX100175
+2026-03-09,out,47.43,cash_out,EcoCash Agent,EcoCash,2339.22,0,TX100176
+2026-03-09,out,108.53,merchant_payment,Avondale street vending,Paynow,2230.69,0,TX100177
+2026-03-10,in,87.43,sale_income,N. Dube,EcoCash,2318.12,0,TX100178
+2026-03-10,out,35.94,cash_out,EcoCash Agent,EcoCash,2282.18,0,TX100179
+2026-03-10,out,48.17,merchant_payment,Avondale street vending,Paynow,2234.01,0,TX100180
+2026-03-10,in,62.9,peer_transfer_in,K. Sibanda,EcoCash,2296.91,0,TX100181
+2026-03-11,in,75.26,peer_transfer_in,S. Chari,EcoCash,2411.19,0,TX100182
+2026-03-11,out,9.21,airtime_purchase,NetOne,EcoCash,2378.49,0,TX100183
+2026-03-11,out,42.56,merchant_payment,Part-time crochet sales,Paynow,2335.93,0,TX100184
+2026-03-11,in,39.47,sale_income,A. Tsvangirai,EcoCash,2402.42,0,TX100185
+2026-03-11,in,66.04,sale_income,J. Mwale,EcoCash,2362.95,0,TX100186
+2026-03-11,out,14.72,cash_out,EcoCash Agent,EcoCash,2387.7,0,TX100187
+2026-03-12,in,27.23,sale_income,S. Chari,EcoCash,2438.43,0,TX100188
+2026-03-12,in,16.33,sale_income,C. Dube,EcoCash,2454.75,0,TX100189
+2026-03-12,in,81.68,sale_income,T. Ncube,EcoCash,2536.43,0,TX100190
+2026-03-12,out,2.69,airtime_purchase,NetOne,EcoCash,2533.74,0,TX100191
+2026-03-13,out,11.05,loan_repayment,MicroLoan ZW,Paynow,2522.69,0,TX100192
+2026-03-14,in,23.12,sale_income,E. Mutasa,EcoCash,2691.79,0,TX100193
+2026-03-14,in,60.3,sale_income,S. Chari,EcoCash,2582.98,0,TX100194
+2026-03-14,in,85.68,sale_income,A. Tsvangirai,EcoCash,2668.67,0,TX100195
+2026-03-15,in,33.63,sale_income,S. Chari,EcoCash,2725.42,0,TX100196
+2026-03-15,in,76.72,sale_income,P. Gondo,EcoCash,2802.14,0,TX100197
+2026-03-15,out,58.59,cash_out,EcoCash Agent,EcoCash,2743.55,0,TX100198
+2026-03-15,in,42.56,peer_transfer_in,P. Gondo,EcoCash,2786.11,0,TX100199
+2026-03-16,in,15.79,peer_transfer_in,S. Chari,EcoCash,2801.9,0,TX100200
+2026-03-17,out,2.34,airtime_purchase,NetOne,EcoCash,2805.32,0,TX100201
+2026-03-17,out,43.88,cash_out,EcoCash Agent,EcoCash,2807.66,0,TX100202
+2026-03-17,in,26.19,sale_income,C. Dube,EcoCash,2834.37,0,TX100203
+2026-03-17,in,6.29,sale_income,R. Moyo,EcoCash,2808.19,0,TX100204
+2026-03-17,in,17.16,sale_income,K. Sibanda,EcoCash,2851.54,0,TX100205
+2026-03-18,in,51.71,sale_income,K. Sibanda,EcoCash,2857.03,0,TX100206
+2026-03-18,in,69.05,sale_income,M. Chikafu,EcoCash,2926.08,0,TX100207
+2026-03-18,in,58.61,sale_income,P. Gondo,EcoCash,2984.69,0,TX100208
+2026-03-18,out,19.99,cash_out,EcoCash Agent,EcoCash,2964.7,0,TX100209
+2026-03-19,out,99.43,merchant_payment,Mbare Produce Market,Paynow,2865.27,0,TX100210
+2026-03-20,in,71.0,sale_income,R. Moyo,EcoCash,2936.27,0,TX100211
+2026-03-20,out,46.95,cash_out,EcoCash Agent,EcoCash,2889.32,1,TX100212
+2026-03-20,out,10.23,loan_repayment,MicroLoan ZW,Paynow,2879.09,0,TX100213
+2026-03-21,out,2.36,airtime_purchase,NetOne,EcoCash,2876.73,0,TX100214
+2026-03-22,in,90.57,sale_income,N. Khumalo,EcoCash,2967.31,0,TX100215
+2026-03-22,in,41.68,sale_income,N. Dube,EcoCash,3008.98,0,TX100216
+2026-03-22,out,4.31,airtime_purchase,NetOne,EcoCash,3004.67,0,TX100217
+2026-03-22,in,41.64,peer_transfer_in,N. Khumalo,EcoCash,3046.31,0,TX100218
+2026-03-23,out,11.51,airtime_purchase,NetOne,EcoCash,3100.96,0,TX100219
+2026-03-23,in,66.15,sale_income,M. Chikafu,EcoCash,3112.47,0,TX100220
+2026-03-24,out,24.32,cash_out,EcoCash Agent,EcoCash,3076.64,0,TX100221
+2026-03-24,out,11.17,airtime_purchase,NetOne,EcoCash,3065.47,0,TX100222
+2026-03-25,in,7.29,sale_income,P. Gondo,EcoCash,3072.76,0,TX100223
+2026-03-25,in,56.22,sale_income,M. Chikafu,EcoCash,3128.98,0,TX100224
+2026-03-25,in,63.49,sale_income,S. Chari,EcoCash,3192.47,0,TX100225
+2026-03-26,out,11.63,airtime_purchase,NetOne,EcoCash,3257.22,0,TX100226
+2026-03-26,in,43.67,sale_income,A. Tsvangirai,EcoCash,3268.85,0,TX100227
+2026-03-26,in,14.77,sale_income,R. Moyo,EcoCash,3207.24,0,TX100228
+2026-03-26,in,17.95,sale_income,E. Mutasa,EcoCash,3225.19,0,TX100229
+2026-03-27,in,59.99,sale_income,P. Gondo,EcoCash,3317.21,0,TX100230
+2026-03-27,in,91.08,sale_income,S. Chari,EcoCash,3408.29,0,TX100231
+2026-03-27,in,79.21,sale_income,E. Mutasa,EcoCash,3487.5,0,TX100232
+2026-03-27,out,6.14,airtime_purchase,NetOne,EcoCash,3481.36,0,TX100233
+2026-03-27,out,97.4,merchant_payment,Mbare Produce Market,Paynow,3383.96,0,TX100234
+2026-03-27,out,8.3,loan_repayment,MicroLoan ZW,Paynow,3375.66,0,TX100235
+2026-03-28,out,70.73,merchant_payment,Part-time crochet sales,Paynow,3458.4,0,TX100236
+2026-03-28,out,21.63,cash_out,EcoCash Agent,EcoCash,3529.13,1,TX100237
+2026-03-28,in,81.52,sale_income,N. Khumalo,EcoCash,3472.25,0,TX100238
+2026-03-28,in,15.07,sale_income,N. Khumalo,EcoCash,3390.73,0,TX100239
+2026-03-28,in,78.51,sale_income,N. Dube,EcoCash,3550.76,0,TX100240
+2026-03-29,in,60.91,sale_income,J. Mwale,EcoCash,3519.31,0,TX100241
+2026-03-29,in,85.05,sale_income,K. Sibanda,EcoCash,3604.36,0,TX100242
+2026-03-29,out,78.33,merchant_payment,Mbare Produce Market,Paynow,3526.03,0,TX100243
+2026-03-30,in,43.06,sale_income,M. Chikafu,EcoCash,3569.1,0,TX100244
+2026-03-30,out,28.71,cash_out,EcoCash Agent,EcoCash,3540.39,0,TX100245
+2026-03-30,out,59.72,merchant_payment,Avondale street vending,Paynow,3480.67,0,TX100246
+2026-03-31,in,65.15,sale_income,P. Gondo,EcoCash,3545.81,0,TX100247
+2026-03-31,in,85.03,sale_income,C. Dube,EcoCash,3630.84,0,TX100248
+2026-03-31,in,46.88,sale_income,M. Chikafu,EcoCash,3677.72,0,TX100249
+2026-03-31,out,22.39,cash_out,EcoCash Agent,EcoCash,3655.33,0,TX100250
+2026-03-31,out,3.6,airtime_purchase,NetOne,EcoCash,3651.73,0,TX100251
+2026-04-01,in,80.33,sale_income,E. Mutasa,EcoCash,3805.89,0,TX100252
+2026-04-01,out,2.16,airtime_purchase,NetOne,EcoCash,3803.73,0,TX100253
+2026-04-01,in,73.82,sale_income,S. Chari,EcoCash,3725.55,0,TX100254
+2026-04-02,in,11.14,sale_income,M. Chikafu,EcoCash,3814.87,0,TX100255
+2026-04-02,out,7.54,airtime_purchase,NetOne,EcoCash,3807.33,0,TX100256
+2026-04-03,in,18.49,sale_income,T. Ncube,EcoCash,3825.81,0,TX100257
+2026-04-03,out,51.23,cash_out,EcoCash Agent,EcoCash,3774.58,0,TX100258
+2026-04-03,out,13.28,loan_repayment,MicroLoan ZW,Paynow,3761.3,0,TX100259
+2026-04-04,out,2.58,airtime_purchase,NetOne,EcoCash,3758.72,0,TX100260
+2026-04-05,out,18.28,cash_out,EcoCash Agent,EcoCash,3830.41,1,TX100261
+2026-04-05,in,89.97,sale_income,K. Sibanda,EcoCash,3848.69,0,TX100262
+2026-04-05,out,4.13,airtime_purchase,NetOne,EcoCash,3826.28,0,TX100263
+2026-04-06,in,19.17,sale_income,M. Chikafu,EcoCash,3845.45,0,TX100264
+2026-04-06,in,15.65,sale_income,C. Dube,EcoCash,3861.11,0,TX100265
+2026-04-06,in,6.95,sale_income,N. Khumalo,EcoCash,3868.06,0,TX100266
+2026-04-06,out,12.77,cash_out,EcoCash Agent,EcoCash,3855.29,0,TX100267
+2026-04-06,out,2.92,airtime_purchase,NetOne,EcoCash,3852.37,0,TX100268
+2026-04-07,out,48.39,merchant_payment,Bulawayo textile market,Paynow,3911.56,0,TX100269
+2026-04-07,out,29.68,cash_out,EcoCash Agent,EcoCash,3959.95,0,TX100270
+2026-04-07,in,59.54,sale_income,M. Chikafu,EcoCash,3921.83,0,TX100271
+2026-04-07,in,67.8,sale_income,S. Chari,EcoCash,3989.63,0,TX100272
+2026-04-07,in,9.92,sale_income,M. Chikafu,EcoCash,3862.29,0,TX100273
+2026-04-08,out,6.55,airtime_purchase,NetOne,EcoCash,3905.01,0,TX100274
+2026-04-09,in,85.73,sale_income,A. Tsvangirai,EcoCash,3990.74,0,TX100275
+2026-04-09,out,52.56,cash_out,EcoCash Agent,EcoCash,3938.18,0,TX100276
+2026-04-09,out,1.48,airtime_purchase,NetOne,EcoCash,3936.7,0,TX100277
+2026-04-10,out,11.09,loan_repayment,MicroLoan ZW,Paynow,3925.61,0,TX100278
+2026-04-10,in,22.76,peer_transfer_in,N. Dube,EcoCash,3948.37,1,TX100279
+2026-04-11,out,7.28,airtime_purchase,NetOne,EcoCash,3969.09,0,TX100280
+2026-04-11,in,28.01,sale_income,R. Moyo,EcoCash,3976.37,0,TX100281
+2026-04-12,in,43.4,sale_income,K. Sibanda,EcoCash,4012.5,0,TX100282
+2026-04-12,in,9.54,sale_income,C. Dube,EcoCash,4022.04,0,TX100283
+2026-04-12,in,39.47,sale_income,T. Ncube,EcoCash,4061.51,0,TX100284
+2026-04-12,out,36.19,cash_out,EcoCash Agent,EcoCash,4025.32,0,TX100285
+2026-04-12,out,25.68,merchant_payment,Part-time crochet sales,Paynow,3999.64,0,TX100286
+2026-04-13,in,68.27,peer_transfer_in,R. Moyo,EcoCash,4100.62,0,TX100287
+2026-04-13,out,25.41,merchant_payment,Cross-border bus fare,Paynow,4032.35,0,TX100288
+2026-04-13,in,81.89,sale_income,S. Chari,EcoCash,4081.53,0,TX100289
+2026-04-13,out,12.6,cash_out,EcoCash Agent,EcoCash,4068.93,0,TX100290
+2026-04-13,out,11.17,airtime_purchase,NetOne,EcoCash,4057.76,0,TX100291
+2026-04-14,in,88.28,sale_income,P. Gondo,EcoCash,4188.9,0,TX100292
+2026-04-14,in,95.37,sale_income,M. Chikafu,EcoCash,4284.27,0,TX100293
+2026-04-14,out,50.1,cash_out,EcoCash Agent,EcoCash,4234.17,0,TX100294
+2026-04-14,out,96.85,merchant_payment,Mutare hardware supply,Paynow,4137.32,0,TX100295
+2026-04-16,out,42.12,cash_out,EcoCash Agent,EcoCash,4095.2,0,TX100296
+2026-04-17,in,76.87,sale_income,N. Khumalo,EcoCash,4172.07,0,TX100297
+2026-04-17,in,17.41,sale_income,C. Dube,EcoCash,4189.48,0,TX100298
+2026-04-17,out,6.9,airtime_purchase,NetOne,EcoCash,4182.58,0,TX100299
+2026-04-17,out,16.74,loan_repayment,MicroLoan ZW,Paynow,4165.84,0,TX100300
+2026-04-18,out,3.93,airtime_purchase,NetOne,EcoCash,4292.27,0,TX100301
+2026-04-18,out,41.98,cash_out,EcoCash Agent,EcoCash,4296.2,0,TX100302
+2026-04-18,out,29.68,merchant_payment,Cross-border bus fare,Paynow,4262.59,0,TX100303
+2026-04-18,in,47.7,sale_income,P. Gondo,EcoCash,4297.65,0,TX100304
+2026-04-18,in,84.12,sale_income,N. Dube,EcoCash,4249.96,0,TX100305
+2026-04-18,in,40.53,sale_income,M. Chikafu,EcoCash,4338.18,0,TX100306
+2026-04-19,in,49.09,sale_income,K. Sibanda,EcoCash,4311.68,0,TX100307
+2026-04-19,in,43.46,sale_income,N. Dube,EcoCash,4355.14,0,TX100308
+2026-04-19,in,26.46,sale_income,S. Chari,EcoCash,4381.6,0,TX100309
+2026-04-20,in,38.91,sale_income,M. Chikafu,EcoCash,4420.5,0,TX100310
+2026-04-20,in,38.8,sale_income,S. Chari,EcoCash,4459.3,0,TX100311
+2026-04-20,out,49.39,merchant_payment,Mutare hardware supply,Paynow,4409.91,0,TX100312
+2026-04-21,out,28.97,cash_out,EcoCash Agent,EcoCash,4380.94,0,TX100313
+2026-04-22,in,68.26,sale_income,K. Sibanda,EcoCash,4449.21,0,TX100314
+2026-04-22,out,24.84,cash_out,EcoCash Agent,EcoCash,4424.37,0,TX100315
+2026-04-22,in,76.16,peer_transfer_in,N. Dube,EcoCash,4500.53,0,TX100316
+2026-04-23,in,89.54,sale_income,E. Mutasa,EcoCash,4590.07,0,TX100317
+2026-04-23,out,34.05,cash_out,EcoCash Agent,EcoCash,4556.02,0,TX100318
+2026-04-23,out,49.48,merchant_payment,Mbare Produce Market,Paynow,4506.54,0,TX100319
+2026-04-24,out,6.89,airtime_purchase,NetOne,EcoCash,4499.65,0,TX100320
+2026-04-24,out,22.43,loan_repayment,MicroLoan ZW,Paynow,4477.22,0,TX100321
+2026-04-25,out,4.17,airtime_purchase,NetOne,EcoCash,4629.96,0,TX100322
+2026-04-25,out,41.65,cash_out,EcoCash Agent,EcoCash,4634.13,1,TX100323
+2026-04-25,in,65.21,sale_income,P. Gondo,EcoCash,4542.42,0,TX100324
+2026-04-25,in,79.21,sale_income,P. Gondo,EcoCash,4621.63,0,TX100325
+2026-04-25,in,54.15,sale_income,T. Ncube,EcoCash,4675.78,0,TX100326
+2026-04-26,in,72.8,sale_income,M. Chikafu,EcoCash,4702.76,0,TX100327
+2026-04-26,out,20.12,cash_out,EcoCash Agent,EcoCash,4682.64,0,TX100328
+2026-04-27,out,44.74,cash_out,EcoCash Agent,EcoCash,4637.9,0,TX100329
+2026-04-28,in,84.41,sale_income,P. Gondo,EcoCash,4722.31,0,TX100330
+2026-04-28,out,16.61,cash_out,EcoCash Agent,EcoCash,4705.7,0,TX100331
+2026-04-29,out,46.29,cash_out,EcoCash Agent,EcoCash,4734.86,0,TX100332
+2026-04-29,in,13.77,sale_income,E. Mutasa,EcoCash,4781.15,0,TX100333
+2026-04-29,in,61.68,sale_income,T. Ncube,EcoCash,4767.38,0,TX100334
+2026-04-30,in,12.8,sale_income,E. Mutasa,EcoCash,4747.66,0,TX100335
+2026-04-30,in,91.35,sale_income,S. Chari,EcoCash,4839.0,0,TX100336
+2026-04-30,in,17.68,sale_income,S. Chari,EcoCash,4856.68,0,TX100337
+2026-04-30,in,76.92,peer_transfer_in,C. Dube,EcoCash,4933.6,0,TX100338
+2026-05-01,out,114.33,merchant_payment,Harare CBD hair salon,Paynow,4899.05,0,TX100339
+2026-05-01,in,24.0,peer_transfer_in,K. Sibanda,EcoCash,4923.05,0,TX100340
+2026-05-01,out,9.75,airtime_purchase,NetOne,EcoCash,5013.38,0,TX100341
+2026-05-01,in,78.89,sale_income,M. Chikafu,EcoCash,5012.49,0,TX100342
+2026-05-01,in,59.77,sale_income,P. Gondo,EcoCash,5072.26,0,TX100343
+2026-05-01,out,49.13,cash_out,EcoCash Agent,EcoCash,5023.13,0,TX100344
+2026-05-02,in,59.44,sale_income,N. Dube,EcoCash,4982.49,0,TX100345
+2026-05-02,in,13.77,sale_income,M. Chikafu,EcoCash,4996.25,0,TX100346
+2026-05-02,in,61.85,sale_income,J. Mwale,EcoCash,5058.1,0,TX100347
+2026-05-03,in,20.8,sale_income,A. Tsvangirai,EcoCash,5078.9,0,TX100348
+2026-05-03,in,57.12,sale_income,C. Dube,EcoCash,5136.02,0,TX100349
+2026-05-03,in,57.81,sale_income,N. Khumalo,EcoCash,5193.83,0,TX100350
+2026-05-03,out,33.3,cash_out,EcoCash Agent,EcoCash,5160.53,0,TX100351
+2026-05-04,in,53.22,sale_income,M. Chikafu,EcoCash,5213.75,0,TX100352
+2026-05-04,in,75.48,sale_income,N. Dube,EcoCash,5289.23,0,TX100353
+2026-05-04,in,78.74,sale_income,E. Mutasa,EcoCash,5367.96,0,TX100354
+2026-05-05,out,7.6,airtime_purchase,NetOne,EcoCash,5325.75,0,TX100355
+2026-05-05,in,74.84,peer_transfer_in,S. Chari,EcoCash,5400.59,0,TX100356
+2026-05-05,out,34.61,cash_out,EcoCash Agent,EcoCash,5333.35,1,TX100357
+2026-05-06,in,16.05,sale_income,R. Moyo,EcoCash,5416.64,0,TX100358
+2026-05-06,out,15.86,cash_out,EcoCash Agent,EcoCash,5400.78,0,TX100359
+2026-05-06,out,1.96,airtime_purchase,NetOne,EcoCash,5398.82,0,TX100360
+2026-05-07,in,65.69,sale_income,T. Ncube,EcoCash,5464.51,0,TX100361
+2026-05-07,out,30.93,cash_out,EcoCash Agent,EcoCash,5433.58,0,TX100362
+2026-05-07,out,9.52,airtime_purchase,NetOne,EcoCash,5424.06,0,TX100363
+2026-05-07,out,85.48,merchant_payment,Avondale street vending,Paynow,5338.58,0,TX100364
+2026-05-08,in,35.78,sale_income,M. Chikafu,EcoCash,5374.36,0,TX100365
+2026-05-08,out,54.92,cash_out,EcoCash Agent,EcoCash,5319.44,0,TX100366
+2026-05-08,out,20.96,loan_repayment,MicroLoan ZW,Paynow,5298.48,0,TX100367
+2026-05-09,in,29.96,sale_income,T. Ncube,EcoCash,5328.44,0,TX100368
+2026-05-09,in,38.6,sale_income,S. Chari,EcoCash,5367.04,0,TX100369
+2026-05-09,out,4.46,airtime_purchase,NetOne,EcoCash,5362.58,0,TX100370
+2026-05-10,out,55.25,merchant_payment,Harare CBD hair salon,Paynow,5282.88,0,TX100371
+2026-05-10,out,56.81,cash_out,EcoCash Agent,EcoCash,5343.95,0,TX100372
+2026-05-10,out,5.82,airtime_purchase,NetOne,EcoCash,5338.13,0,TX100373
+2026-05-10,in,19.54,sale_income,E. Mutasa,EcoCash,5382.12,0,TX100374
+2026-05-10,in,18.63,sale_income,K. Sibanda,EcoCash,5400.76,0,TX100375
+2026-05-12,in,72.32,sale_income,N. Khumalo,EcoCash,5355.19,0,TX100376
+2026-05-12,out,7.08,airtime_purchase,NetOne,EcoCash,5348.11,0,TX100377
+2026-05-12,out,113.29,merchant_payment,University dining hall kiosk,Paynow,5234.82,0,TX100378
+2026-05-13,in,76.99,sale_income,N. Dube,EcoCash,5311.81,0,TX100379
+2026-05-13,out,33.97,cash_out,EcoCash Agent,EcoCash,5277.84,0,TX100380
+2026-05-13,out,5.14,airtime_purchase,NetOne,EcoCash,5272.7,0,TX100381
+2026-05-13,in,79.0,peer_transfer_in,J. Mwale,EcoCash,5351.7,0,TX100382
+2026-05-14,out,8.9,airtime_purchase,NetOne,EcoCash,5342.8,0,TX100383
+2026-05-14,in,76.34,peer_transfer_in,A. Tsvangirai,EcoCash,5419.14,0,TX100384
+2026-05-15,in,15.93,sale_income,A. Tsvangirai,EcoCash,5435.07,0,TX100385
+2026-05-15,in,83.47,sale_income,A. Tsvangirai,EcoCash,5518.54,0,TX100386
+2026-05-15,out,81.89,merchant_payment,Avondale street vending,Paynow,5436.65,0,TX100387
+2026-05-16,in,59.27,sale_income,P. Gondo,EcoCash,5512.17,0,TX100388
+2026-05-16,out,8.55,airtime_purchase,NetOne,EcoCash,5503.62,0,TX100389
+2026-05-16,in,16.25,sale_income,M. Chikafu,EcoCash,5452.9,0,TX100390
+2026-05-17,in,6.14,sale_income,A. Tsvangirai,EcoCash,5509.75,0,TX100391
+2026-05-17,in,46.91,sale_income,J. Mwale,EcoCash,5556.67,0,TX100392
+2026-05-17,in,81.15,sale_income,M. Chikafu,EcoCash,5637.82,0,TX100393
+2026-05-17,out,4.25,airtime_purchase,NetOne,EcoCash,5633.57,0,TX100394
+2026-05-18,in,47.3,sale_income,N. Khumalo,EcoCash,5680.87,0,TX100395
+2026-05-18,in,45.81,sale_income,S. Chari,EcoCash,5726.68,0,TX100396
+2026-05-18,out,46.7,merchant_payment,Part-time crochet sales,Paynow,5679.98,0,TX100397
+2026-05-19,in,89.73,sale_income,N. Khumalo,EcoCash,5769.71,0,TX100398
+2026-05-19,in,77.08,sale_income,T. Ncube,EcoCash,5846.79,0,TX100399
+2026-05-20,in,15.2,sale_income,M. Chikafu,EcoCash,5861.99,0,TX100400
+2026-05-20,in,96.98,sale_income,R. Moyo,EcoCash,5958.98,0,TX100401
+2026-05-20,in,86.11,sale_income,C. Dube,EcoCash,6045.09,0,TX100402
+2026-05-20,out,4.12,airtime_purchase,NetOne,EcoCash,6040.97,0,TX100403
+2026-05-20,in,67.77,peer_transfer_in,A. Tsvangirai,EcoCash,6108.74,0,TX100404
+2026-05-21,in,66.41,sale_income,E. Mutasa,EcoCash,6287.14,0,TX100405
+2026-05-21,in,97.17,sale_income,N. Dube,EcoCash,6220.73,0,TX100406
+2026-05-21,in,14.82,sale_income,J. Mwale,EcoCash,6123.56,0,TX100407
+2026-05-22,in,64.98,sale_income,N. Dube,EcoCash,6352.12,0,TX100408
+2026-05-22,in,13.34,sale_income,M. Chikafu,EcoCash,6365.47,0,TX100409
+2026-05-22,in,87.76,sale_income,P. Gondo,EcoCash,6453.22,0,TX100410
+2026-05-22,out,18.04,merchant_payment,Gweru second-hand clothing,Paynow,6435.18,0,TX100411
+2026-05-22,out,12.09,loan_repayment,MicroLoan ZW,Paynow,6423.09,0,TX100412
+2026-05-23,in,18.19,sale_income,J. Mwale,EcoCash,6441.29,0,TX100413
+2026-05-23,out,48.84,cash_out,EcoCash Agent,EcoCash,6392.45,0,TX100414
+2026-05-24,in,23.29,sale_income,K. Sibanda,EcoCash,6415.73,0,TX100415
+2026-05-24,in,89.01,sale_income,T. Ncube,EcoCash,6504.75,0,TX100416
+2026-05-24,in,65.55,sale_income,M. Chikafu,EcoCash,6570.29,0,TX100417
+2026-05-24,out,18.8,merchant_payment,Part-time crochet sales,Paynow,6551.49,0,TX100418
+2026-05-25,out,10.27,cash_out,EcoCash Agent,EcoCash,6541.22,0,TX100419
+2026-05-25,in,8.87,peer_transfer_in,A. Tsvangirai,EcoCash,6550.09,0,TX100420
+2026-05-26,out,40.05,merchant_payment,Cross-border bus fare,Paynow,6520.87,0,TX100421
+2026-05-26,out,50.07,cash_out,EcoCash Agent,EcoCash,6560.92,1,TX100422
+2026-05-26,in,60.9,sale_income,T. Ncube,EcoCash,6610.99,0,TX100423
+2026-05-27,in,83.36,sale_income,R. Moyo,EcoCash,6604.24,0,TX100424
+2026-05-27,in,10.28,sale_income,M. Chikafu,EcoCash,6614.52,0,TX100425
+2026-05-27,out,9.81,airtime_purchase,NetOne,EcoCash,6604.71,0,TX100426
+2026-05-27,out,112.42,merchant_payment,Part-time crochet sales,Paynow,6492.29,0,TX100427
+2026-05-28,out,48.61,cash_out,EcoCash Agent,EcoCash,6443.68,1,TX100428
+2026-05-29,in,69.41,sale_income,P. Gondo,EcoCash,6513.08,0,TX100429
+2026-05-29,in,82.31,sale_income,J. Mwale,EcoCash,6595.39,0,TX100430
+2026-05-29,in,8.7,sale_income,A. Tsvangirai,EcoCash,6604.1,0,TX100431
+2026-05-29,out,36.19,merchant_payment,Bulawayo textile market,Paynow,6567.91,0,TX100432
+2026-05-29,out,10.12,loan_repayment,MicroLoan ZW,Paynow,6557.79,0,TX100433
+2026-05-30,in,51.55,sale_income,P. Gondo,EcoCash,6609.33,0,TX100434
+2026-05-30,in,73.75,sale_income,N. Dube,EcoCash,6683.08,0,TX100435
+2026-05-30,out,7.93,airtime_purchase,NetOne,EcoCash,6675.15,0,TX100436
+2026-05-31,in,19.48,peer_transfer_in,R. Moyo,EcoCash,6547.22,0,TX100437
+2026-05-31,out,92.14,merchant_payment,Bulawayo textile market,Paynow,6527.74,0,TX100438
+2026-05-31,out,52.56,cash_out,EcoCash Agent,EcoCash,6622.59,0,TX100439
+2026-05-31,out,2.71,airtime_purchase,NetOne,EcoCash,6619.88,0,TX100440
+2026-06-01,in,29.98,sale_income,S. Chari,EcoCash,6577.2,0,TX100441
+2026-06-01,in,70.49,sale_income,N. Khumalo,EcoCash,6647.69,0,TX100442
+2026-06-01,out,59.01,cash_out,EcoCash Agent,EcoCash,6588.68,0,TX100443
+2026-06-01,out,79.21,merchant_payment,Gweru second-hand clothing,Paynow,6509.47,0,TX100444
+2026-06-01,in,9.09,peer_transfer_in,N. Dube,EcoCash,6518.56,0,TX100445
+2026-06-02,in,61.86,sale_income,S. Chari,EcoCash,6580.42,0,TX100446
+2026-06-02,out,12.12,cash_out,EcoCash Agent,EcoCash,6568.3,0,TX100447
+2026-06-02,out,10.73,airtime_purchase,NetOne,EcoCash,6557.57,0,TX100448
+2026-06-03,out,45.48,cash_out,EcoCash Agent,EcoCash,6512.09,0,TX100449
+2026-06-03,out,2.9,airtime_purchase,NetOne,EcoCash,6509.19,0,TX100450
+2026-06-04,out,32.93,cash_out,EcoCash Agent,EcoCash,6607.07,1,TX100451
+2026-06-04,in,95.41,sale_income,M. Chikafu,EcoCash,6640.0,0,TX100452
+2026-06-04,in,13.46,sale_income,M. Chikafu,EcoCash,6522.66,0,TX100453
+2026-06-04,in,21.93,sale_income,M. Chikafu,EcoCash,6544.59,0,TX100454
+2026-06-05,in,77.34,sale_income,N. Dube,EcoCash,6684.41,0,TX100455
+2026-06-05,in,63.71,sale_income,M. Chikafu,EcoCash,6748.12,0,TX100456
+2026-06-05,out,38.62,cash_out,EcoCash Agent,EcoCash,6709.5,0,TX100457
+2026-06-05,in,15.88,peer_transfer_in,K. Sibanda,EcoCash,6725.38,0,TX100458
+2026-06-06,in,92.28,sale_income,M. Chikafu,EcoCash,6817.66,0,TX100459
+2026-06-06,in,32.8,sale_income,N. Khumalo,EcoCash,6850.46,0,TX100460
+2026-06-06,out,38.9,cash_out,EcoCash Agent,EcoCash,6811.56,0,TX100461
+2026-06-07,in,69.56,sale_income,M. Chikafu,EcoCash,6881.12,0,TX100462
+2026-06-07,in,64.9,sale_income,K. Sibanda,EcoCash,6946.01,0,TX100463
+2026-06-08,in,75.54,peer_transfer_in,K. Sibanda,EcoCash,7021.55,0,TX100464
+2026-06-09,out,30.2,cash_out,EcoCash Agent,EcoCash,7061.95,0,TX100465
+2026-06-09,in,18.69,sale_income,J. Mwale,EcoCash,7040.25,0,TX100466
+2026-06-09,in,51.9,sale_income,J. Mwale,EcoCash,7092.15,0,TX100467
+2026-06-09,in,40.56,peer_transfer_in,N. Dube,EcoCash,7102.51,0,TX100468
+2026-06-10,out,2.31,airtime_purchase,NetOne,EcoCash,7100.2,0,TX100469
+2026-06-11,out,25.24,cash_out,EcoCash Agent,EcoCash,7122.98,0,TX100470
+2026-06-11,in,37.09,peer_transfer_in,N. Khumalo,EcoCash,7160.07,1,TX100471
+2026-06-11,in,17.37,sale_income,K. Sibanda,EcoCash,7117.57,0,TX100472
+2026-06-11,in,30.65,sale_income,E. Mutasa,EcoCash,7148.22,0,TX100473
+2026-06-12,out,40.55,cash_out,EcoCash Agent,EcoCash,7119.52,0,TX100474
+2026-06-12,out,18.79,loan_repayment,MicroLoan ZW,Paynow,7100.73,0,TX100475
+2026-06-13,out,30.59,cash_out,EcoCash Agent,EcoCash,7070.14,1,TX100476
+2026-06-14,in,42.71,sale_income,C. Dube,EcoCash,7112.86,0,TX100477
+2026-06-14,in,25.08,sale_income,T. Ncube,EcoCash,7137.93,0,TX100478
+2026-06-14,out,39.42,cash_out,EcoCash Agent,EcoCash,7098.51,0,TX100479
+2026-06-14,out,4.49,airtime_purchase,NetOne,EcoCash,7094.02,0,TX100480
+2026-06-14,in,7.7,peer_transfer_in,R. Moyo,EcoCash,7101.72,0,TX100481
+2026-06-15,in,43.6,sale_income,J. Mwale,EcoCash,7145.32,0,TX100482
+2026-06-15,in,48.74,sale_income,M. Chikafu,EcoCash,7194.07,0,TX100483
+2026-06-15,out,21.28,cash_out,EcoCash Agent,EcoCash,7172.79,0,TX100484
+2026-06-15,out,7.3,airtime_purchase,NetOne,EcoCash,7165.49,0,TX100485
+2026-06-16,out,83.51,merchant_payment,Mbare Produce Market,Paynow,7200.81,0,TX100486
+2026-06-16,out,8.13,airtime_purchase,NetOne,EcoCash,7284.32,0,TX100487
+2026-06-16,in,69.76,sale_income,S. Chari,EcoCash,7292.45,0,TX100488
+2026-06-16,in,57.2,sale_income,M. Chikafu,EcoCash,7222.68,0,TX100489
+2026-06-17,in,34.17,sale_income,N. Khumalo,EcoCash,7234.98,0,TX100490
+2026-06-17,in,77.65,sale_income,S. Chari,EcoCash,7312.63,0,TX100491
+2026-06-17,in,55.66,sale_income,E. Mutasa,EcoCash,7368.29,0,TX100492
+2026-06-17,out,5.75,airtime_purchase,NetOne,EcoCash,7362.54,0,TX100493
+2026-06-18,in,62.75,sale_income,N. Khumalo,EcoCash,7425.29,0,TX100494
+2026-06-18,out,28.03,cash_out,EcoCash Agent,EcoCash,7397.26,0,TX100495
+2026-06-18,out,6.64,airtime_purchase,NetOne,EcoCash,7390.62,0,TX100496
+2026-06-18,in,60.25,peer_transfer_in,S. Chari,EcoCash,7450.87,0,TX100497
+2026-06-19,out,54.32,cash_out,EcoCash Agent,EcoCash,7396.55,0,TX100498
+2026-06-19,out,11.13,airtime_purchase,NetOne,EcoCash,7385.42,0,TX100499
+2026-06-19,out,16.56,loan_repayment,MicroLoan ZW,Paynow,7368.86,0,TX100500
+2026-06-20,out,36.01,cash_out,EcoCash Agent,EcoCash,7332.85,0,TX100501
+2026-06-21,in,13.69,peer_transfer_in,N. Dube,EcoCash,7322.53,0,TX100502
+2026-06-21,out,10.21,airtime_purchase,NetOne,EcoCash,7375.72,0,TX100503
+2026-06-21,out,66.88,merchant_payment,Harare CBD hair salon,Paynow,7308.84,0,TX100504
+2026-06-21,in,78.79,sale_income,T. Ncube,EcoCash,7411.65,0,TX100505
+2026-06-21,out,25.72,cash_out,EcoCash Agent,EcoCash,7385.93,0,TX100506
+2026-06-22,in,11.65,sale_income,N. Dube,EcoCash,7334.17,0,TX100507
+2026-06-22,in,82.68,sale_income,N. Khumalo,EcoCash,7416.85,0,TX100508
+2026-06-22,in,10.13,sale_income,N. Dube,EcoCash,7426.98,0,TX100509
+2026-06-23,in,30.89,sale_income,P. Gondo,EcoCash,7457.87,0,TX100510
+2026-06-23,out,26.71,cash_out,EcoCash Agent,EcoCash,7431.16,0,TX100511
+2026-06-23,out,2.9,airtime_purchase,NetOne,EcoCash,7428.26,0,TX100512
+2026-06-23,out,47.96,merchant_payment,Mbare Produce Market,Paynow,7380.3,0,TX100513
+2026-06-24,out,47.13,cash_out,EcoCash Agent,EcoCash,7333.17,0,TX100514
+2026-06-24,out,1.16,airtime_purchase,NetOne,EcoCash,7332.01,0,TX100515
+2026-06-24,in,67.04,peer_transfer_in,M. Chikafu,EcoCash,7399.05,0,TX100516
+2026-06-25,out,78.09,merchant_payment,Bulawayo textile market,Paynow,7463.5,0,TX100517
+2026-06-25,in,84.02,sale_income,P. Gondo,EcoCash,7483.07,0,TX100518
+2026-06-25,in,39.34,sale_income,N. Khumalo,EcoCash,7522.41,0,TX100519
+2026-06-25,in,19.17,sale_income,A. Tsvangirai,EcoCash,7541.59,0,TX100520
+2026-06-26,out,57.92,cash_out,EcoCash Agent,EcoCash,7460.28,0,TX100521
+2026-06-26,in,16.04,sale_income,N. Khumalo,EcoCash,7479.54,0,TX100522
+2026-06-26,in,38.67,sale_income,P. Gondo,EcoCash,7518.2,0,TX100523
+2026-06-27,out,59.77,cash_out,EcoCash Agent,EcoCash,7400.51,0,TX100524
+2026-06-27,out,9.49,airtime_purchase,NetOne,EcoCash,7391.02,0,TX100525
+2026-06-28,in,33.69,sale_income,J. Mwale,EcoCash,7424.71,0,TX100526
+2026-06-28,out,44.38,cash_out,EcoCash Agent,EcoCash,7380.33,0,TX100527
+2026-06-29,in,70.08,sale_income,M. Chikafu,EcoCash,7450.41,0,TX100528
+2026-06-29,in,40.78,sale_income,J. Mwale,EcoCash,7491.19,0,TX100529
+2026-06-29,out,42.04,cash_out,EcoCash Agent,EcoCash,7449.15,0,TX100530
+2026-06-29,out,1.12,airtime_purchase,NetOne,EcoCash,7448.03,0,TX100531
+2026-06-30,in,24.29,sale_income,J. Mwale,EcoCash,7472.32,0,TX100532
+2026-06-30,out,36.25,cash_out,EcoCash Agent,EcoCash,7436.07,0,TX100533
+2026-07-01,out,11.88,airtime_purchase,NetOne,EcoCash,7546.76,0,TX100534
+2026-07-01,in,20.11,sale_income,R. Moyo,EcoCash,7456.18,0,TX100535
+2026-07-01,in,20.31,sale_income,N. Khumalo,EcoCash,7476.48,0,TX100536
+2026-07-01,in,82.15,sale_income,E. Mutasa,EcoCash,7558.64,0,TX100537
+2026-07-02,in,56.29,sale_income,N. Dube,EcoCash,7603.05,0,TX100538
+2026-07-03,out,22.26,loan_repayment,MicroLoan ZW,Paynow,7580.79,0,TX100539
+2026-07-03,in,79.27,peer_transfer_in,T. Ncube,EcoCash,7660.06,0,TX100540
